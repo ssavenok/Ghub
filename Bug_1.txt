@@ -1,0 +1,11 @@
+Bug_id: 1
+ Title: “Add widget” button is not working on device
+ Severity: Blocker
+ Priority: High
+ Environment: Jinga Neon, Android 8.1.0,
+ Precondition: Clear the app from running
+ STR: Open app
+ Click “Add Widget” button
+ AR: Nothing happens, button is not working, widget is not created on any page
+ ER: Widget creation window appears/widget created
+ Attachments: no files
