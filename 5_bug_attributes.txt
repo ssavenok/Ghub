@@ -3,3 +3,9 @@ Title
 Expected Result
 Acctual Result
 Steps to Reproduce
+
+not main:
+Environment
+Priority
+Severity
+Attachments
