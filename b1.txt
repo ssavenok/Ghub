@@ -1,9 +1,8 @@
-be
-bw
-bq
-note
-pade++[3~[B[D[D[D[[A[F[B[C[C[C[Cpade++[D[D[D[D[D[C[C[3~[C[D++ 
+notepade++ 
 can   
 rewrite
 txt
 files
+from 1page 
+to last page 
+
